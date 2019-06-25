@@ -5,8 +5,8 @@
 Name     : etr
 Version  : 0.7.5
 Release  : 1
-URL      : https://downloads.sourceforge.net/project/extremetuxracer/releases/0.7.5/etr-0.7.5.tar.xz
-Source0  : https://downloads.sourceforge.net/project/extremetuxracer/releases/0.7.5/etr-0.7.5.tar.xz
+URL      : https://sourceforge.net/projects/extremetuxracer/files/releases/0.7.5/etr-0.7.5.tar.xz
+Source0  : https://sourceforge.net/projects/extremetuxracer/files/releases/0.7.5/etr-0.7.5.tar.xz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : GPL-2.0
