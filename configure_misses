@@ -1,2 +1,3 @@
 Configure miss: floor
+Configure miss: glBegin in -lOpenGL
 Configure miss: sqrt
