@@ -2,6 +2,25 @@
                            NEWS for Extreme Tux Racer
 ===============================================================================
 
+Version 0.8.2                                                 16th of Jun, 2022
+-------------------------------------------------------------------------------
+- Fixed a crash when entering an event with the course group changed earlier.
+  Now the course group is always resetted to the default one before entering
+  an event.
+- Appdata/Metainfo file is now installed to <prefix>/share/metainfo, like
+  current specification requires
+- Also the project license, not only license of the metadata, is defined
+  in the appdata file
+- Fixed Windows build when UNICODE not defined
+- etr.png icon regenerated from the etr.svg in 64x64 size for better quality
+- New translations
+  - Italian
+- Updated translations
+  - Swedish
+  - Finnish
+  - Romanian
+
+
 Version 0.8.1                                                 25th of Jun, 2021
 -------------------------------------------------------------------------------
 - Autotools build now prefers linking against libOpenGL over libGL
