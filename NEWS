@@ -2,6 +2,19 @@
                            NEWS for Extreme Tux Racer
 ===============================================================================
 
+Version 0.8.3                                                 19th of Jun, 2023
+-------------------------------------------------------------------------------
+- Windows build with Visual Studio (2022) fixed
+- Respect XDG_CONFIG_HOME at systems other than Windows
+- Metainfo and desktop files have now reverse domain-name
+- Other metainfo format updates
+- Course files converted to UTF-8
+- Autotools build now have year 2038 support, if at least
+  version 2.73 of autoconf is used in bootstrapping.
+- Updated translations
+  - French
+
+
 Version 0.8.2                                                 16th of Jun, 2022
 -------------------------------------------------------------------------------
 - Fixed a crash when entering an event with the course group changed earlier.
