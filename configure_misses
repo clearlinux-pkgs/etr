@@ -2,5 +2,9 @@ Configure miss: floor
 Configure miss: floor
 Configure miss: g++ option to enable C++11 features
 Configure miss: g++ option to enable C++11 features
+Configure miss: gcc option for timestamps after 2038
+Configure miss: gcc option for timestamps after 2038
+Configure miss: gcc option to enable large file support
+Configure miss: gcc option to enable large file support
 Configure miss: sqrt
 Configure miss: sqrt

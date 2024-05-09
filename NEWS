@@ -2,6 +2,20 @@
                            NEWS for Extreme Tux Racer
 ===============================================================================
 
+
+Version 0.8.4                                                 10th of May, 2024
+-------------------------------------------------------------------------------
+- A, D, W, and S keys work as alternative to cursor keys
+- Prevent configuration values from going below minimum by mouse clicks
+- Fixed drawing with some older Intel GPU drivers
+- Fixed unicode text display issues
+- Updated VS Platform Toolset to v143
+- New translations
+  - Portuguese
+- Updated translations
+  - Spanish
+
+
 Version 0.8.3                                                 19th of Jun, 2023
 -------------------------------------------------------------------------------
 - Windows build with Visual Studio (2022) fixed
